@@ -1,0 +1,21 @@
+
+.Header {
+
+  height: 125px;
+  background-color: #00A884;
+  box-shadow: none;
+  width :100vw;
+}
+
+.loginUppar {
+
+  height: 220px;
+  background-color: #00bfa5;
+  box-shadow: none;
+  width: 100vw;
+}
+.loginLower{
+  height:100vh;
+  background: #dcdcdc;
+  width:100vw;
+}
